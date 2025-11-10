@@ -1,4 +1,37 @@
-# Golden Roots Nursery Datacenter
+# Vivero Comunitario Raíces Doradas 
+
+## Vivero comunitario en Barranquilla, Colombia: Proyecto de gestión de datos para la restauración del bosque tropical seco.
+
+Este es un sistema de gestión basado en datos para un vivero de plantas sin fines de lucro, cuyo objetivo es restaurar 3.3 hectáreas de bosque tropical seco en una zona urbana. Con el fin de centralizar y automatizar la entrada, gestión y generación de informes de datos, el núcleo del sistema es una base de datos relacional diseñada para registrar especies, lotes y todas las actividades de cuidado relacionadas, lo que permite una monitorización y toma de decisiones eficientes.
+
+Aquí encontrará:
+
+* Arquitectura de tablas y recopilación de datos a lo largo del tiempo.
+* Diseño de flujo de trabajo y automatización para la entrada colaborativa de datos.
+* Visualización de datos del vivero e informes periódicos.
+
+Recursos para la recopilación colaborativa de datos: En este proyecto, se utilizan Formularios de Google para recopilar datos públicamente.
+
+<a href= "https://forms.gle/BUSmLtCghLBtz3R8A">1. Especies</a>
+<a href= "https://forms.gle/x77tCGwhNUuKuWNe9">2. Nuevas Entradas</a>
+<a href= "https://forms.gle/NiMpsMggQeb7ZdQr5">3. Riego</a>
+<a href= "https://forms.gle/8ngYF79j3GKUE1dR7">4. Registro de Lluvias</a>
+<a href= "https://forms.gle/24g5YPtuRejk2Q3W6">5. Observación de Plantas</a>
+<a href= "https://forms.gle/ZyWFVNM3RvXuLH5x7">6. Control de Plagas</a>
+
+## Próximos pasos (¡En desarrollo!)
+1. Se han creado cuadernos Jupyter refinados para la recopilación de datos.
+2. Se está automatizando una aplicación Python para la entrada colaborativa de datos.
+3. Se están reutilizando y mejorando progresivamente los informes para la visualización de datos.
+
+## ¡Síguenos en Instagram!
+<a href= "https://www.instagram.com/proyecto_raices_doradas?igsh=MTIweTJlNTFrMXhvcQ=="> Vivero Raíces Doradas💛</a>
+
+## ¿Te encanta este proyecto? ¡Dona lo que puedas! <a href= "https://www.paypal.me/DianaF272">Paypal.me</a>
+El bosque tropical seco colombiano está siendo cada vez más devastado por la expansión urbana. Considera apoyar este proyecto comunitario para la restauración del ecosistema y la adaptación urbana al cambio climático.
+
+__________________
+# / Golden Roots Nursery Datacenter
 
 ## Community-led nursery in Barranquilla, Colombia: Data management project for tropical dry forest restoration.
 
