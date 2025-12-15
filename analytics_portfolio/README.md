@@ -8,11 +8,12 @@ To set up the virtual environment for this project:
 ```rm -rf venv```
 3. **Create fresh venv with an explicit Python version**
 ```python3.13 -m venv venv```
-```python3.13 -m venv project_folder/.venv```  # Creates .venv in the project location
+```ñls ```  # Creates .venv in the project location
 4. **Activate the virtual environment**
 ```source venv/bin/activate``` # Linux/MacOS
 ```venv/Scripts/activate``` # Windows
 5. **Upgrade pip/setuptools and wheel for dependancy resolution**
+```pip install --upgrade pip setuptools wheel```
 ```pip install --upgrade pip setuptoorf ve- ls wheel``` 
 6. **Install requirements.** 
 ```pip install -r requirements.txt```
