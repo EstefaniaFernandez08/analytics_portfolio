@@ -1,5 +1,5 @@
 
-# / Golden Roots Nursery Datacenter
+#  Golden Roots Nursery Datacenter
 
 ## Nursery in Barranquilla, Colombia: Data management project for tropical dry forest restoration.
 
