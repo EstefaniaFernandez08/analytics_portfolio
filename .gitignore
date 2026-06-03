@@ -17,3 +17,6 @@ config.ini
 .env
 *.env
 
+.venv/
+venv/
+__pycache__/
