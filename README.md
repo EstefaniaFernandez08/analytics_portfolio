@@ -2,14 +2,14 @@
 
 <img src="images/foto-maquillaje-IA.png"
     alt="Diana"
-    width="140"
+    width="200"
     style="border-radius: 50%;" />
 
 # Hi, I am Diana ✨
 
 *Operational Analyst ✦ Data Storytelling ✦ Insight Visualization*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernandez-diana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandez-diana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EstefaniaFernandez08)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:diana.fernandez17@outlook.com)
 
