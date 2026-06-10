@@ -2,7 +2,7 @@
 
 <img src="images/foto-maquillaje-IA.png"
     alt="Diana"
-    width="200"
+    width="100"
     style="border-radius: 50%;" />
 
 # Hi, I am Diana ✨
