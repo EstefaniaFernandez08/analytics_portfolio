@@ -1,55 +1,47 @@
-### Setting Up the Virtual Environment for script Project Repository
+<div align="center">
 
-To set up the virtual environment for this project:
+<img src="/Users/estefania/Documents/📈Profesional/Fotos/foto-maquillaje-IA.png"
+    alt="Diana"
+    width="140"
+    style="border-radius: 50%;" />
 
-1. **Navigate to the project directory** 
-```cd path_to_the_scripts_repository```
-2. **Delete old venv**
-```rm -rf venv```
-3. **Create fresh venv with an explicit Python version**
-```python3.13 -m venv venv```
-```ñls ```  # Creates .venv in the project location
-4. **Activate the virtual environment**
-```source venv/bin/activate``` # Linux/MacOS
-```venv/Scripts/activate``` # Windows
-5. **Upgrade pip/setuptools and wheel for dependancy resolution**
-```pip install --upgrade pip setuptools wheel```
-```pip install --upgrade pip setuptoorf ve- ls wheel``` 
-6. **Install requirements.** 
-```pip install -r requirements.txt```
-```pip install -r requirements.txt --upgrade``` # For specific changes 
-7. **Update requirements.** 
-```pip freeze > requirements.txt```
-7. **Deactivate the venv.**
-```deactivate```
-______________________________________________________________________________________________________
+# Hi, I am Diana ✨
 
-### Documenting nbconvert export commands
+*Operational Analyst ✦ Data Storytelling ✦ Insight Visualization*
 
-- PDF: ```jupyter nbconvert --to pdf notebook.ipynb```
-- HTML: ```jupyter nbconvert --to html --no-input notebook.ipynb```
-- Markdown: ```jupyter nbconvert --to markdown notebook.ipynb```
-- Slides: ```jupyter nbconvert --to markdown notebook.ipynb```
-- Python Script: ```jupyter nbconvert --to script notebook.ipynb```
-______________________________________________________________________________________________________
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((www.linkedin.com/in/fernandez-diana))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EstefaniaFernandez08)
+[![Email]((https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white))](mailto:diana.fernandez17@outlook.com)
 
-### Markdown Formatting Tips:
-- For **commands**, enclose them in triple backticks (```) to format them as code blocks.
-- Use headings (`#`, `##`, `###`, etc.) to organize the document into sections.
-- Use lists (`-` or `1.`) to structure steps clearly.
-- Display links by using square brackets to depict the `[text]` and the `(URL)` following in parentheses.
+</div>
 
-______________________________________________________________________________________________________
+---
 
-### Basic HTML Elements Used for Table Creation
+## About
 
-1.	```<center>```: Centers the content horizontally (used for headings).
-2.	```<h1>```: Defines the main heading (adjust text size as needed, e.g., ```<h2>, <h3>```).
-3.	```<div>```: Creates a container for organizing and aligning elements.
-4.	```<table>```: Defines the table structure.
-5.	```<tr>```: Creates a table row.
-6.	```<th>```: Defines a table header cell (used for column titles).
-7.	```<td>```: Defines a standard table cell (used for content rows).
-8.	```style=""```: Inline CSS for custom styling like background color, padding, and text color.
+I turn scattered data into clear insights and communicate for strategic decision-making
+
+## Python Projects
+
+| Global Housing Market Analysis | Scalable Data Pipeline and Comprehensive Insight Reporting | 
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Global Housing Market Analysis](./Python/Reporting/housing-market.ipynb) | Real time integration of financial concepts, data preparation for derive field enrichment, regional and financial discovery questions & heatmap visual communication | Jupyter, configparser, pandas, HTML |
+| [Visual Farmer Advisor](./Python/Visuals/farmer-advisor.ipynb) | Scalable data pipeline for actionable insight visualization | Jupyter, configparser, pandas, HTML, matplotlib, seaborn |
+
+---
+
+## SQL Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [SQLite3 Database Management](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)((https://github.com/EstefaniaFernandez08/sqlite3_db_manager)) | Table arquitecture and data collection over time, inventory data periodical reporting. | Jupyter, sqlite3, pandas, HTML |
+
+---
+
+<div align="center">
+<sub>Open to collaborations and interesting data problems ✦ Let's connect!</sub>
+</div>
 
 
