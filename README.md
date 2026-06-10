@@ -3,7 +3,7 @@
 <img src="images/foto-maquillaje-IA.png"
     alt="Diana"
     width="140"
-    style="border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+    style="border-radius: 50%;" />
 
 # Hi, I am Diana ✨
 
@@ -34,7 +34,7 @@ I turn scattered data into clear insights and communicate for strategic decision
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [SQLite3 Database Management](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)(https://github.com/EstefaniaFernandez08/sqlite3_db_manager) | Table arquitecture and data collection over time, inventory data periodical reporting. | Jupyter, sqlite3, pandas, HTML |
+| [SQLite3 Database Management](https://github.com/EstefaniaFernandez08/sqlite3_db_manager) | Table arquitecture and data collection over time, inventory data periodical reporting. | Jupyter, sqlite3, pandas, HTML |
 
 ## 🛠️ Stack
 
