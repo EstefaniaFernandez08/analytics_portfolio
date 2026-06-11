@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/foto-maquillaje-IA.png"
+<img src="visuals/foto-maquillaje-IA.png"
     alt="Diana"
     width="160"
     style="border-radius: 50%;" />
