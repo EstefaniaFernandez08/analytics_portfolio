@@ -2,9 +2,10 @@
 
 # Learning Lab 🤖
 
+---
+
 __This is a *Structured Practice Environment*, not a project showcase.__
 
----
 </div>
 
 A personal space for practical abstract thinking through mathematical concepts and repeated problem solving with SQL📦 and Python🐍.
