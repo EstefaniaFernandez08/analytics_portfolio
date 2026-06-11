@@ -2,17 +2,17 @@
 
 # Learning Lab 🤖
 
----
+__This is a *Structured Practice Environment*, not a project showcase__
 
-__This is a *Structured Practice Environment*, not a project showcase.__
+---
 
 </div>
 
-A personal space for practical abstract thinking through mathematical concepts and repeated problem solving with SQL📦 and Python🐍.
+A personal space for practical abstract thinking through mathematical concepts and repeated problem solving with SQL📦 and Python🐍
 
-## Philosophy 🫆
+## Philosophy 📜
 
-Proficiency comes from doing🏃🏻‍♀️, excellence comes from a *deep understanding of concepts and logic* extrapolated to real-world 🌎 ethical problem-solving✋🏾.
+Proficiency comes from doing🏃🏻‍♀️, excellence comes from a __*deep understanding of concepts and logic*__ extrapolated to real-world 🌎 ethical problem-solving✋🏾
 
 ## Structure 🧱
 
@@ -31,7 +31,7 @@ We relate to concepts to understand __*why*__ something works, and apply the sam
 └── level_1_python.py ← Python exercises (mirrors SQL logic)
 ```
 
-Levels are incremental, A new level means same concept with more complexity, multiple files of the same level can exists.
+__*Levels are incremental, A new level means same concept with more complexity, multiple files of the same level can exists.*__
 
 ---
 
