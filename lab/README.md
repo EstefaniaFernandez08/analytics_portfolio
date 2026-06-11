@@ -17,10 +17,10 @@ Proficiency comes from doing🏃🏻‍♀️, excellence comes from a *deep und
 
 We relate to concepts to understand __*why*__ something works, and apply the same logic across different situations until it stops requiring effort. Each module in this lab follows that sequence:
 
-__1. Define the concept with precision__
-__2. Map it to SQL and Python explicitly__
-__3. Solve a problem using the concept__
-__4. Replicate and change complexity as needed__
+1. __Define the concept with precision__
+2. __Map it to SQL and Python explicitly__
+3. __Solve a problem using the concept__
+4. __Replicate and change complexity as needed__
 
 
 ```
