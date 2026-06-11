@@ -10,9 +10,9 @@ A personal space for practical abstract thinking through mathematical concepts a
 
 ## Philosophy 📜
 
-Proficiency comes from doing🏃🏻‍♀️, excellence comes from a __*deep understanding of concepts and logic*__ extrapolated to real-world 🌎 ethical problem-solving✋🏾
+Proficiency comes from doing🏃🏻‍♀️, excellence comes from a __*deep understanding of concepts and logic*__ extrapolated to real-world ethical problem-solving
 
-## Structure 🧱
+## Structure 🎯
 
 We relate to concepts to understand __*why*__ something works, and __*apply the same logic*__ across different situations until it stops requiring effort. Each module in this lab follows that sequence:
 
@@ -29,7 +29,7 @@ We relate to concepts to understand __*why*__ something works, and __*apply the 
 └── level_1_python.py ← Python exercises (mirrors SQL logic)
 ```
 
-__*Levels are incremental, A new level means same concept with more complexity, multiple files of the same level can exists.*__
+*Levels are incremental, A new level means same concept with more complexity, multiple files of the same level can exists.*
 
 ---
 
