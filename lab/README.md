@@ -2,13 +2,11 @@
 
 # Learning Lab 🤖
 
-__This is a *Structured Practice Environment*, not a project showcase__
+A personal space for practical abstract thinking through mathematical concepts and repeated problem solving with SQL📦 and Python🐍 __This is a *Structured Practice Environment*, not a project showcase__ 
 
 ---
 
 </div>
-
-A personal space for practical abstract thinking through mathematical concepts and repeated problem solving with SQL📦 and Python🐍
 
 ## Philosophy 📜
 
@@ -16,7 +14,7 @@ Proficiency comes from doing🏃🏻‍♀️, excellence comes from a __*deep u
 
 ## Structure 🧱
 
-We relate to concepts to understand __*why*__ something works, and apply the same logic across different situations until it stops requiring effort. Each module in this lab follows that sequence:
+We relate to concepts to understand __*why*__ something works, and __*apply the same logic*__ across different situations until it stops requiring effort. Each module in this lab follows that sequence:
 
 1. __Define the concept with precision__
 2. __Map it to SQL and Python explicitly__
